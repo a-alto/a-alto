@@ -23,7 +23,7 @@ I'm also fond of **cybersecurity** and **privacy**, and I try to stay abreast of
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="/assets/technologies/c--4.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
@@ -60,23 +60,17 @@ I'm also fond of **cybersecurity** and **privacy**, and I try to stay abreast of
 </div>
 
 ### 📖 Learning:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="60" height="60"/>
 </div>
 
+
 <!--
-### Hi there 👋
-
-**a-alto/a-alto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Resources:
+- https://www.sitepoint.com/github-profile-readme/
+- https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
+- https://javascript.plainenglish.io/how-to-create-a-awesome-github-profile-page-ca40d38dc3a8
+- https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
+- https://animated-fluent-emoji.vercel.app/
 -->
