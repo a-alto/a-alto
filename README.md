@@ -29,7 +29,7 @@ Python · C · x86 Assembly · VHDL · SQL · Java · JavaScript · Bash
 <details>
 <summary>Other languages and formats</summary>
 
-C#, PHP, HTML, CSS, Batch.
+C#, PHP, HTML, CSS, Batch
 
 </details>
 
@@ -53,6 +53,6 @@ OpenVPN · Wireshark · OPNsense · Burp Suite · Kathara · IDA · Metasploit �
 <details>
 <summary>Other frameworks and technologies</summary>
 
-FPGA, Arduino, Raspberry Pi, Git, PyTorch, Jupyter.
+FPGA, Arduino, Raspberry Pi, Git, PyTorch, Jupyter
 
 </details>
