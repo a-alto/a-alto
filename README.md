@@ -53,6 +53,6 @@ OpenVPN · Wireshark · OPNsense · Burp Suite · Kathara · IDA · Metasploit �
 <details>
 <summary>Other frameworks and technologies</summary>
 
-FPGA, Arduino, Raspberry Pi, Git, PyTorch, Jupyter
+FPGA, Arduino, Raspberry Pi, Git, PyTorch, Jupyter.
 
 </details>
