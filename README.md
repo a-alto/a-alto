@@ -14,10 +14,9 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About me
 
-I am a Software Engineer from Europe with a passion for **efficient**, **scalable**, and **secure** systems.\
-I strive to make my software as reliable and as performant as possible. My goal is to have the best piece of technology out of my work, and I pursue this intent with precision and critical thinking concerning what I'm working on.
+Cybersecurity MSc at Sapienza University of Rome, with three years of professional experience in software engineering and architecture. My background combines production systems development with academic work in network defense, penetration testing, malware reverse engineering, applied cryptography, and AI security.
 
-I'm also fond of **cybersecurity** and **privacy**, and I try to stay abreast of the latest security standards and technologies. This also helps me make software secure and as fallacy-proof as possible.
+My interests include **OT/ICS and cyber-physical systems security**, **privacy**, and **cyber threat intelligence**, with a particular focus on understanding adversary behavior and protecting critical infrastructure. These interests extend to blockchain technologies and the implications of quantum computing for cryptography and security.
 
 <br>
 
